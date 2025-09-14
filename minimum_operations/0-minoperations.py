@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""This is a method that calculates the fewest number 
+"""This is a method that calculates the fewest number
 of operations needed to result in exactly n H characters in the file.
 """
 
