@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
-"""This is a method that calculates the fewest number of operations needed to result in
-exactly n H characters in the file.
+"""This is a method that calculates the fewest number 
+of operations needed to result in exactly n H characters in the file.
 """
 
 
@@ -21,4 +21,3 @@ def minOperations(n):
         current_num_of_h += copied
         num_of_operations += 1
     return num_of_operations
-
